@@ -1,0 +1,15 @@
+Goals:
+generate one quote at random from a database upon button-click.
+
+Version 1 required elements:
+table with quotes
+
+Version 1.1 required elements:
+on-refresh generate random number 0-n (n=#quotes)
+
+Version 1.2 required elements:
+css to format the page and make it pretty
+
+Version 2 required elements:
+button
+	on-click generate random number 0-n (n=#quotes)
